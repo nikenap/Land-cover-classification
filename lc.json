@@ -1,0 +1,38 @@
+{
+    "palette": [
+        "228B22",
+        "90EE90",
+        "F08080",
+        "87CEFA",
+        "6A5ACD",
+        "66CDAA",
+        "FFD700",
+        "FFA500",
+        "008080",
+        "A0522D"
+    ],
+    "values": [
+        "2002",
+        "2007",
+        "2012",
+        "5001",
+        "20041",
+        "20071",
+        "20091",
+        "20092",
+        "20093",
+        "20141"
+    ],
+    "label": [
+        "Secondary dryland forest",
+        "Dry shrub",
+        "Settlement",
+        "Open water",
+        "Secondary mangrove forest",
+        "Wet shrub",
+        "Pure dry agriculture",
+        "Mixed dry agriculture",
+        "Paddy field",
+        "Mining"
+    ]
+}
