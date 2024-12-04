@@ -16,5 +16,5 @@ This code is part of a portfolio project aimed at understanding machine learning
 4. **Prediction and Exporting Result:** Applying the model for predictions and exporting results for further use.
 
 ## Acknowledgement
-This article is made possible thanks to the incredible support of the following open-source contributions:
+This project is made possible thanks to the incredible support of the following open-source contributions:
 1. [Ramadhan](https://github.com/ramiqcom/remote-sensing-python/blob/master/scripts/landcover_classification/landcover_classification.ipynb)
